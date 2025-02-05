@@ -12,7 +12,7 @@
 
 		public DateTime ReservationDate { get; set; }
 
-		public TimeOnly ReservationTime { get; set; }
+		public string ReservationTime { get; set; }
 
 		public int CountofPeople { get; set; }
 
